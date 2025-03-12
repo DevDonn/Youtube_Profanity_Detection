@@ -21,3 +21,5 @@ This project implements a YouTube Profanity Detection system designed to automat
 - **Matplotlib** for visualization
 
 This system offers an efficient solution for content moderation on YouTube by automatically identifying inappropriate language, helping creators maintain community standards effectively.
+
+h5 file and dataset link - https://drive.google.com/drive/folders/1UcvyFbszvICz28OSg3ML7GjG5pO_w9ts?usp=sharing
